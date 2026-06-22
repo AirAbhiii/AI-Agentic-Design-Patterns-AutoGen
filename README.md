@@ -1,5 +1,5 @@
 # AI-Agentic-Design-Patterns-AutoGen
-# 🤖 AI Agentic Design Patterns with AutoGen
+
 
 > **Course Projects** | DeepLearning.AI — *AI Agentic Design Patterns with AutoGen*
 
